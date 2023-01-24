@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class DirectionalLightSettings : MonoBehaviour
+public class ObjectRotator : MonoBehaviour
 {
     public Quaternion rotation;
 
